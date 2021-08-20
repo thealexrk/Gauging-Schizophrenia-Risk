@@ -1,3 +1,5 @@
+## 3D Loop Schizophrenia Risk
+
 All code was developed for collaboration with Akbarian lab analyzing neural Hi-C data and its relevance to schizophrenia (SZ). 
 
 The majority of the code is compatible with Juicer tools for Hi-C data analysis. 
