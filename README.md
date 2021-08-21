@@ -1,5 +1,5 @@
 # Gauging-Schizophrenia-Risk
-[Pending]
+Identifying neuron-specific signatures in the chromosomal connectome associated with SZ risk.
 
 Check out the accompanying article here: [Pending]
 
