@@ -1,7 +1,7 @@
 # Gauging-Schizophrenia-Risk
 [Pending]
 
-Check out the accompanying article here: https://thealexk.medium.com/synq-optimizing-gate-synthesis-950edd642aa1
+Check out the accompanying article here: [Pending]
 
 NB: This project is inspired by the following paper, the authors of which I owe a debt of gratitude for providing the code and data files I used:
 
