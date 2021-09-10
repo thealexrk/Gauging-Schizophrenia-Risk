@@ -1,5 +1,5 @@
 # Gauging-Schizophrenia-Risk
-Applying quantitative pathology and network analysis to predict spatiotemporal tau pathology patterns.
+Identifying neuron-specific signatures in the chromosomal connectome associated with schizophrenia risk.
 
 Check out the accompanying article here: https://thealexk.medium.com/neurogram-gauging-schizophrenia-risk-b48c8024d2cb
 
